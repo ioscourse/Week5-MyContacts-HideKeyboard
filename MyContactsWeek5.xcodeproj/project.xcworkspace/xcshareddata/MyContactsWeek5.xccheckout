@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>6B97D89F-2086-488C-A731-EA732131648C</string>
+	<string>7F750ECD-305C-400F-84DC-B76318155B13</string>
 	<key>IDESourceControlProjectName</key>
 	<string>MyContactsWeek5</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>2262767D-9872-4786-9F56-6D783A586023</key>
-		<string>https://github.com/chukon/Weekly-Labs.git</string>
+		<key>1790FC6E-F953-4456-9EB1-6129EDD3E65F</key>
+		<string>https://github.com/ioscourse/Week5-MyContacts-HideKeyboard.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Week5/MyContactsWeek5/MyContactsWeek5.xcodeproj/project.xcworkspace</string>
+	<string>MyContactsWeek5.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>2262767D-9872-4786-9F56-6D783A586023</key>
-		<string>../../../..</string>
+		<key>1790FC6E-F953-4456-9EB1-6129EDD3E65F</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/chukon/Weekly-Labs.git</string>
+	<string>https://github.com/ioscourse/Week5-MyContacts-HideKeyboard.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>2262767D-9872-4786-9F56-6D783A586023</string>
+	<string>1790FC6E-F953-4456-9EB1-6129EDD3E65F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>2262767D-9872-4786-9F56-6D783A586023</string>
+			<string>1790FC6E-F953-4456-9EB1-6129EDD3E65F</string>
 			<key>IDESourceControlWCCName</key>
-			<string>CIS280 Apps</string>
+			<string>Allthecooks.settings</string>
 		</dict>
 	</array>
 </dict>

@@ -18,6 +18,7 @@
 
 @property (strong, nonatomic) IBOutlet UIScrollView *Scrollview;
 
+//hide keyboard
 -(IBAction) doneEditing:(id) sender;
 - (IBAction)btnBack:(id)sender;
 @property (strong, nonatomic) IBOutlet UIButton *btnBack;
